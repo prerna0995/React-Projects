@@ -28,3 +28,7 @@ dist/
 
 .history/
 .nxdeps.json
+
+package-lock.json
+
+.eslintcache
